@@ -1,3 +1,7 @@
+KNN -> teachable Machine
+
+#### Original (https://github.com/lassse/sound-controlled-intergalactic-teddy)
+
 # Sound Controlled Intergalactic Teddy
 
 #### Avoiding space monsters with sounds
